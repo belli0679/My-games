@@ -1,0 +1,59 @@
+*{
+    background-color:gray;
+
+}
+
+
+h1{
+
+    color:teal;
+
+}
+
+h2{
+
+    color:darkmagenta;
+
+}
+
+p{
+
+    color:blanchedalmond;
+
+}
+
+a{
+
+    color:gray;
+
+}
+
+.cabecalho{
+    background-color:grey;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.menu{
+    background-color:lightgray;
+
+}
+
+.projeto{
+
+
+}
+
+.projetos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.telho{
+    display: flex;
+    justify-content: flex-end;
+}
