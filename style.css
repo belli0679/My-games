@@ -1,48 +1,58 @@
 *{
-    background-color:gray;
+    background-color:rgb(42, 45, 51);
 
 }
 
 
 h1{
-
-    color:teal;
+    font-size: 50px;
+    color:rgb(10, 190, 190);
 
 }
 
 h2{
-
-    color:darkmagenta;
+    text-align: center;
+    font-size: 40px;
+    color:rgb(202, 10, 202);
+    text-decoration-line: underline;
 
 }
 
 p{
-
+    font-size:20px;
     color:blanchedalmond;
 
 }
 
 a{
 
-    color:gray;
+    color:rgb(223, 203, 31);
 
 }
 
 .cabecalho{
-    background-color:grey;
-    display: flex;
-    justify-content: space-between;
+    text-align: center;
+    justify-content: space-evenly;
 
 
 }
 
 .menu{
-    background-color:lightgray;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.menudomenu{
+    margin-left:50px;
+    margin-right: 50px;
 
 }
 
 .projeto{
-
+    text-align: center;
 
 }
 
