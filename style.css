@@ -13,8 +13,8 @@ h1{
 h2{
     text-align: center;
     font-size: 40px;
-    color:rgb(202, 10, 202);
-    text-decoration-line: underline;
+    color:rgb(202, 10, 160);
+    text-decoration-line: none;
 
 }
 
@@ -32,7 +32,7 @@ a:link{
 
 a:visited{
 
-    color:rgb(202, 10, 202);
+    color:rgb(223, 178, 31);
     
 }
 
